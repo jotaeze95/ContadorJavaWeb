@@ -15,7 +15,7 @@
   
   document.write('<br>');
   document.write('<br>');
-  document.write('Tiempo de ejecución: '+((endTime-startTime)/1000)+' segundos');
+  document.write('Tiempo de ejecucion: '+((endTime-startTime)/1000)+' segundos');
 </script>
 </body>
 </html>
